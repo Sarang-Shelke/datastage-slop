@@ -1,4 +1,4 @@
-BEGIN HEADE
+BEGIN HEADER
    CharacterSet "CP1252"
    ExportingTool "IBM InfoSphere DataStage Export"
    ToolVersion "8"
@@ -9,7 +9,6 @@ BEGIN HEADE
    Time "12.00.00"
    ServerVersion "11.7"
 END HEADER
-BEGIN DSJOB
    Identifier "POSTGRES_UPPERCASE_TRANSFORM"
    DateModified "2025-01-26"
    TimeModified "12.00.00"
@@ -718,4 +717,5 @@ record
       LinkMinimised "0"
    END DSRECORD
 END DSJOB
+
 
