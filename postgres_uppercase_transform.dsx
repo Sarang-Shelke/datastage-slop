@@ -1,4 +1,4 @@
-BEGIN HEADER
+BEGIN HEADE
    CharacterSet "CP1252"
    ExportingTool "IBM InfoSphere DataStage Export"
    ToolVersion "8"
@@ -718,3 +718,4 @@ record
       LinkMinimised "0"
    END DSRECORD
 END DSJOB
+
